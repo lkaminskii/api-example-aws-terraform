@@ -15,6 +15,5 @@ Este repositório contém uma aplicação Java simples desenvolvida para demonst
 
 A aplicação oferece um endpoint HTTP simples que retorna uma mensagem. Os exemplos incluem a configuração do LocalStack para que você possa testar recursos da AWS localmente sem custo, além de um `docker-compose.yml` para levantar os serviços necessários e um módulo Terraform (`terraform/main.tf`) que demonstra como provisionar recursos na nuvem.
 
-![Terraform resource](assets/AWS-TERRAFORM-QUEUE.png)
 
 
