@@ -1,6 +1,6 @@
 # api-example-aws-terraform
 
-Este repositório contém uma aplicação Java simples desenvolvida para demonstrar o uso integrado de LocalStack (simulação de serviços AWS), Docker e Terraform. O objetivo é servir como exemplo técnico para portfólio e chamar atenção de recrutadores, pois o autor é iniciante em desenvolvimento e infraestrutura na nuvem.
+Este repositório contém uma aplicação Java simples desenvolvida para demonstrar o uso integrado de LocalStack (simulação de serviços AWS), Docker e Terraform.
 
 ---
 
